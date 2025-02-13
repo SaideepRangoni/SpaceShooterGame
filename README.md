@@ -1,4 +1,4 @@
-# SpaceShooterGame
+
 # SpaceShooterGame
 
 ## Introduction
@@ -69,6 +69,8 @@ This project is licensed under the [MIT License](https://github.com/SaideepRango
    ```
 5. Open a Pull Request.
 
-## Contact
-For any questions, contact:
-- **Your Name** - [saideeprangoni@gmail.com](mailto:saideeprangoni@gmail.com)
+## 📬 Contact & Support  
+**Developed by:** Saideep Rangoni  
+- **Email:** saideeprangoni634@gmail.com  
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/saideep-rangoni-54abb9300/)  
+
